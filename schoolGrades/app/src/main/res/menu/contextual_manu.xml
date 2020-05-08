@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/grade"
+        android:orderInCategory="10"
+        android:title="See subject\'s grade"/>
+
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="10"
+        android:title="Share subject\'s grade"/>
+
+    <item
+        android:id="@+id/dalete"
+        android:orderInCategory="10"
+        android:title="Delete that subject"/>
+</menu>

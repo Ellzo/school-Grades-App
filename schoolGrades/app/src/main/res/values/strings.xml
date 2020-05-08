@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">schoolGrades</string>
+
+    <string name="name_maths">Maths</string>
+    <string name="grade_maths">A+</string>
+
+    <string name="name_physics">Physics</string>
+    <string name="grade_phyics">A-</string>
+
+    <string name="name_chemistry">Chemistry</string>
+    <string name="grade_chemistry">B-</string>
+
+    <string name="name_biology">Biology</string>
+    <string name="grade_biology">C-</string>
+
+    <string name="name_eng">Engineering</string>
+    <string name="grade_eng">B+</string>
+
+    <string name="name_ar">Arabic</string>
+    <string name="grade_ar">A+</string>
+
+    <string name="name_fr">French</string>
+    <string name="grade_fr">C+</string>
+
+    <string name="name_en">English</string>
+    <string name="grade_en">A+</string>
+
+    <string name="name_his">History</string>
+    <string name="grade_his">B+</string>
+
+    <string name="name_geo">Geography</string>
+    <string name="grade_geo">B-</string>
+
+    <string name="name_religion">Religion</string>
+    <string name="grade_religion">A-</string>
+
+    <string name="name_sport">Sport</string>
+    <string name="grade_sport">B+</string>
+
+
+</resources>
